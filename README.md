@@ -20,7 +20,7 @@
 
 # Scores
 
-The Snake Jets - 10600
+The Snake Jets - 15536
 
 Peo - 0
 
