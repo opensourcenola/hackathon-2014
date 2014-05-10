@@ -17,6 +17,13 @@
 * No points are given if you own the repo or are part of the team or organization that owns the repo
 * Judges reserver the right to disqualify any PR
 
+
+# Scores
+
+The Snake Jets - 5664
+Peo - 0
+Osetopus - 0
+
 # Awesome Projects - Suggested
 FIND YOUR OWN: http://www.codetriage.com/
 
