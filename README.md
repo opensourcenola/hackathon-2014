@@ -15,7 +15,7 @@
 * 2pt if that PR is accepted
 * Points are multiplied by the stars the associated repo has
 * No points are given if you own the repo or are part of the team or organization that owns the repo
-* Judges reserver the right to disqualify any PR
+* Judges reserve the right to disqualify any PR
 
 
 # Scores
