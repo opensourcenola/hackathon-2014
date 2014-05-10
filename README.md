@@ -28,12 +28,14 @@ Tech Writer:
 Newb Coder:
 Javascript
 * https://github.com/codecombat/codecombat/issues?labels=good-for-newbies&page=1&state=open
+
 RUBY
 * https://github.com/pascalj/doge/issues/1
 
 Updating gems on well tested repos!
 	Rails
   * https://github.com/joshthedudeoflife/lifeback
+
 	RubyMotion
   * https://github.com/IconoclastLabs/rubymotion_cookbook/issues/11
   * https://github.com/GantMan/motion-egg
@@ -46,6 +48,7 @@ Advanced
 	AngularUI
   * https://www.bountysource.com/teams/angularui
 
+	Madness
   * http://codecombat.challengepost.com/
 
 
