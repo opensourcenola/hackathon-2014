@@ -30,6 +30,16 @@ Difference Engineers - 67539
 
 Revelry - 6383
 
+# Winners
+
+1st: Difference Engineers
+
+2nd: The Snake Jets
+
+3rd: Revelry
+
+4th: Osetopus
+
 # Awesome Projects - Suggested
 FIND YOUR OWN: http://www.codetriage.com/
 
